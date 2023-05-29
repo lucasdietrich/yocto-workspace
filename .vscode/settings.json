@@ -1,0 +1,7 @@
+{
+    "search.exclude": {
+        "build/**": true,
+        "./build/conf/**": false,
+        ".venv/**": true,
+    }
+}
